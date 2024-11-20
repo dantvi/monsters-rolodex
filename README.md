@@ -60,11 +60,10 @@ const filteredMonsters = this.state.monsters.filter((monster) =>
 In future projects, I plan to:
 - Refactor the app to use React Hooks for a functional component structure.
 - Explore state management with external libraries like Redux or Context API.
-- Integrate animations to enhance user interactions, such as on card hover or search input changes.
 
 ### Useful resources
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html) - Comprehensive resource for understanding React concepts and class components.
+- [React Documentation](https://react.dev/learn) - Comprehensive resource for understanding React concepts and class components.
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) - Provided mock user data for the app.
 
 ## Author
